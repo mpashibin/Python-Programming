@@ -1,0 +1,6 @@
+The purpose of this program is to organize Division III Women's volleyball teams and allow the user 
+to access and update information about the various teams and their players. It is a dynamic program 
+incorporating multiple files and a database that can be expanded upon to include more teams and 
+players and track information related to them. The ability to pull this information from the database allows 
+us to perform calculations on player statistics and could be used to guide decisions on team lineups and 
+related decisions.
